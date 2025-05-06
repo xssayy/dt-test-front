@@ -1,0 +1,16 @@
+.header {
+  text-transform: capitalize;
+  text-decoration: none;
+  text-align: center;
+  display: block;
+
+  color: red;
+  font-size: 30px;
+  border-bottom: 1px solid black;
+  transition: all ease-in-out 0.125s;
+  padding-bottom: 10px;
+}
+
+.header:hover {
+  color: rgba(221, 33, 33, 0.486);
+}

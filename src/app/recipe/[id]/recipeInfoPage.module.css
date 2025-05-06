@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.recipeContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 70%;
+}
+
+.infoList {
+  list-style: none;
+  padding: 0;
+  max-width: 50%;
+}

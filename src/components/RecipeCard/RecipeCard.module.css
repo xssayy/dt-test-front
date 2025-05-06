@@ -1,0 +1,19 @@
+.recipeCard {
+  border: 1px solid black;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 30%;
+  text-decoration: none;
+  color: black;
+}
+
+.recipeImage {
+  border-radius: 15px;
+}
+
+.infoList {
+  list-style: none;
+}
